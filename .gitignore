@@ -1,0 +1,15 @@
+*.class
+
+*.jar
+*.war
+*.ear
+
+*.swp
+*.iml
+
+.idea
+
+target
+server/target
+shared/target
+web/target
