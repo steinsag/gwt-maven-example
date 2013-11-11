@@ -20,7 +20,7 @@ Running via Maven in GWT Dev Mode
 In order to run the example via Maven in GWT Dev Mode, you need to do:
 
 1. Start the web application in Tomcat 7 via Maven
-2. Start GWT Dev Mode via Mave
+2. Start GWT Dev Mode via Maven
 3. Run the application in your browser
 
 To accomplish the first point, issue the following Maven command on a shell:
